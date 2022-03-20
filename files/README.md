@@ -1,1 +1,1 @@
-Power BI reports and resources used in other files
+Power BI reports and resources used in Synapse workload
