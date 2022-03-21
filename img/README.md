@@ -1,1 +1,1 @@
-images used in notebooks
+images used in notebooks and PBI reports
